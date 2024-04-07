@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ARS-SG 
-- 👀 I’m interested in Internet Of Things ,Machine Learning and Web Development
+- 👋 Hi, I’m Arnav 
+- 👀 I’m interested in Learning
 
 <!---
 ARS-SG/ARS-SG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
