@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Education: First-year Bachelor of Science student at the University of Melbourne<br>🤝 Seeking collaborations on innovative technology solutions<br>📚 Looking for mentorship in software development and project management<br>🌐 Interested in connecting with tech professionals for internships or job opportunities<br>💻 Learning programming languages and frameworks for software development<br>🚀 Tech Enthusiasm: Knowledgeable about the latest trends in technology, especially in education and social good<br>📊 Project Management: Insights into managing tech projects effectively, particularly in collaborative settings
+🎓 Education: Bachelor of Science student at the University of Melbourne<br>🤝 Seeking collaborations on innovative technology solutions<br>📚 Looking for mentorship in software development and project management<br>🌐 Interested in connecting with tech professionals for internships or job opportunities<br>💻 Learning programming languages and frameworks for software development<br>🚀 Tech Enthusiasm: Knowledgeable about the latest trends in technology, especially in education and social good<br>📊 Project Management: Insights into managing tech projects effectively, particularly in collaborative settings
 
 
 ## 🌐 Socials:
